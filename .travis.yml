@@ -3,5 +3,5 @@ mono: none
 dotnet: 3.1
 solution: lab7/lab7.sln
 script:
-  - dotnet restore   
-  - dotnet test   
+ - dotnet restore
+ - dotnet test
